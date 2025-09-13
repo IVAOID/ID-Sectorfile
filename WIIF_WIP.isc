@@ -1,3 +1,6 @@
+//Set Update : 13 September 2025
+
+
 [INFO]
 S006.07.25.000
 E106.39.40.000
@@ -5,7 +8,7 @@ E106.39.40.000
 60
 -0,1
 WIIF_WIP
-Sector File created by Pandu Ramadhan [ID-AOAC | 542929]
+Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
 RUMPUT;#4e844e;
@@ -34,6 +37,7 @@ F;WIIF.FIX
 F;WIIF.AWL
 [HIGH AIRWAY]
 F;WIIF.AWH
+
 [GEO]
 F;wiifgeooo.geo
 F;wirr.geo
@@ -62,6 +66,8 @@ F;wiifutpn.artcc
 F;wiifujog.artcc
 F;wiifupnk.artcc
 F;wiifusrg.artcc
+F;wiifutpg.artcc
+F;wiifunta.artcc
 F;WIIF LOWER.ARTCC
 
 
@@ -80,6 +86,7 @@ F;WAHH.HARTCC
 F;WICA.HARTCC
 F;WIDN.HARTCC
 F;WIMM.HARTCC
+F;WSJC_DELEGATED.HARTCC
 
 [ARTCC LOW]
 F;wibb.lartcc
