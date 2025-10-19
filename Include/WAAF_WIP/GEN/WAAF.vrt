@@ -1,0 +1,455 @@
+V14;V14;LORAM;LORAM;
+V14;V14;SONGO;SONGO;
+V14;V14;ODADI;ODADI;
+V14;V14;GUPEN;GUPEN;
+V14;V14;STASI;STASI;
+V14;V14;PIPUS;PIPUS;
+V14;V14;AKREO;AKREO;
+V14;V14;ANY;ANY;
+V27;V27;LORAM;LORAM;
+V27;V27;JOGRO;JOGRO;
+V27;V27;BABAT;BABAT;
+V27;V27;LAMON;LAMON;
+V27;V27;CERME;CERME;
+V27;V27;JUDAN;JUDAN;
+V27;V27;SBR;SBR;
+V28;V28;SBR;SBR;
+V28;V28;DARJO;DARJO;
+V28;V28;PADAN;PADAN;
+V29;V29;SBR;SBR;
+V29;V29;DARJO;DARJO;
+V29;V29;MOKER;MOKER;
+V29;V29;NGORO;NGORO;
+V30;V30;SBR;SBR;
+V30;V30;DARJO;DARJO;
+V30;V30;MOKER;MOKER;
+V30;V30;ORAME;ORAME;
+V30;V30;JOGRO;JOGRO;
+V30;V30;LORAM;LORAM;
+V31;V31;SBR;SBR;
+V31;V31;DARJO;DARJO;
+V31;V31;PASUR;PASUR;
+V31;V31;PROBO;PROBO;
+V31;V31;POTON;POTON;
+V31;V31;TACIN;TACIN;
+V31;V31;CAKAR;CAKAR;
+V31;V31;BALUR;BALUR;
+V31;V31;GIMAN;GIMAN;
+V31;V31;BANYU;BANYU;
+V32;V32;SBR;SBR;
+V32;V32;JUDAN;JUDAN;
+V32;V32;TAMER;TAMER;
+V32;V32;PATEN;PATEN;
+V32;V32;GUDAN;GUDAN;
+V32;V32;ONGGI;ONGGI;
+V32;V32;TRUNO;TRUNO;
+V33;V33;BANYU;BANYU;
+V33;V33;GIMAN;GIMAN;
+V33;V33;CAKAR;CAKAR;
+V33;V33;TACIN;TACIN;
+V33;V33;JAGED;JAGED;
+V33;V33;ONGGI;ONGGI;
+V33;V33;TRUNO;TRUNO;
+V34;V34;TACIN;TACIN;
+V34;V34;RAJEK;RAJEK;
+V34;V34;BONDO;BONDO;
+V34;V34;KASAT;KASAT;
+V34;V34;EGORO;EGORO;
+V35;V35;GUPEN;GUPEN;
+V35;V35;PURWO;PURWO;
+V35;V35;ODADI;ODADI;
+
+//WADD
+//103;103;SUMBERKIMA;SUMBERKIMA;
+//103;103;GILIMANUK;GILIMANUK;
+//103;103;NEGARA;NEGARA;
+//103;103;SURABRATAN;SURABRATAN;
+//103;103;TANAH LOT;TANAH LOT;
+//103;103;BLI;BLI
+//104;104;SURABRATAN;SURABRATAN;
+//104;104;PAYANGAN;PAYANGAN;
+//104;104;PADANGBAI HARBOUR;PADANGBAI HARBOUR;
+//105;105;SUMBERKIMA;SUMBERKIMA;
+//105;105;SERIRIT;SERIRIT;
+//105;105;KUBU TAMBAHAN;KUBU TAMBAHAN;
+//105;105;TEJAKULA;TEJAKULA;
+//105;105;TANJUNG BATUTIGA;TANJUNG BATUTIGA;
+//106;106;BLI;BLI;
+//106;106;SANUR BEACH;SANUR BEACH;
+//106;106;PADANGBAI HARBOUR;PADANGBAI HARBOUR;
+//106;106;TANJUNG BATUTIGA;TANJUNG BATUTIGA;
+
+//WADL
+//206;206;LABUHAN PON;LABUHAN PON;
+//206;206;TANJUNG SEMETI;TANJUNG SEMETI;
+//206;206;LMB;LMB;
+//207;207;LMB;LMB;
+//207;207;LABUHAN HAJI;LABUHAN HAJI;
+//207;207;MALUK;MALUK;
+//208;208;LABUHAN HAJI;LABUHAN HAJI;
+//208;208;ABEAM PANJANG;ABEAM PANJANG;
+//208;208;TANJUNG SAROKAYA;TANJUNG SAROKAYA;
+//208;208;NQ;NQ;
+//209;209;TANJUNG BATUTIGA;TANJUNG BATUTIGA;
+//209;209;GILI;GILI;
+//209;209;BAYAN;BAYAN;
+//209;209;SULAT;SULAT;
+//209;209;TANJUNG SAROKAYA;TANJUNG SAROKAYA;
+
+////Kalimantan
+////Nunukan Tarakan via Tarakan Hrbour
+//201;Nunukan;Nunukan;
+//201;Itai River;Itai River;
+//201;Tarakan Harbour;Tarakan Harbour;
+//201;TRK;TRK;
+//
+////Nunukan Malinau via Sibuku
+//202;Nunukan;Nunukan;
+//202;Sibuku River;Sibuku River;
+//202;Sebakung River;Sebakung River;
+//202;Malinau;Malinau;
+//
+////Long Bawan nunukan via Lugu River
+//203;Long Bawan;Long Bawan;
+//203;Mentarang;Mentarang;
+//203;Lugu River;Lugu River;
+//203;Sibuku River;Sibuku River;
+//
+////Long Bawan Tarakan Harbour via Malinau
+//204;Long Bawan;Long Bawan;
+//204;Tambalang;Tambalang;
+//204;Malinau;Malinau;
+//204;Siduyun River;Siduyun River;
+//204;Umbus Island;Umbus Island;
+//204;Tarakan Harbour;Tarakan Harbour;
+//
+////Malinau Tarakan via Tundung Island
+//205;Malinau;Malinau;
+//205;ABM MT Sondang;ABM MT Sondang;
+//205;Tanjung Selor;Tanjung Selor;
+//205;Tundung Island;Tundung Island;
+//205;Tanjung Pasir;Tanjung Pasir;
+//205;TRK;TRK;
+//
+////Tundung Island Makajang via Tanah Kuning
+//206;Tundung Island;Tundung Island;
+//206;Abeam Tanah Kuning;Abeam Tanah Kuning;
+//206;Berau River;Berau River;
+//206;Makajang;Makajang;
+//
+////Tanjung Redeb Tanjung Batu via Berau River
+//207;Tanjung Redeb;Tanjung Redeb;
+//207;Berau River;Berau River;
+//207;Tanjung Batu;Tanjung Batu;
+//
+////Makajang ABM MT Ampayan
+//208;Makajang;Makajang;
+//208;Tanjung Parupu;Tanjung Parupu;
+//208;ABM MT Ampayan;ABM MT Ampayan;
+//208;Benua Baru;Benua Baru;
+//208;Sekurau River;Sekurau River;
+//
+////Makajang Mahakam River I
+//209;Makajang;Makajang;
+//209;Tabalor;Tabalor;
+//209;Muara Karangan;Muara Karangan;
+//209;Sekurau River;Sekurau River;
+//209;Tanjung Bara;Tanjung Bara;
+//209;Sangkimah;Sangkimah;
+//209;ABM Bontang;ABM Bontang;
+//209;Tanjung Santan;Tanjung Santan;
+//209;Muara Badak;Muara Badak;
+//209;Mahakam River I;Mahakam River I
+//
+////Mahakam River Tanah Grogot Via Poin Alpha
+//210;Mahakam River I;Mahakam River I;
+//210;Handil II;Handil II;
+//210;Senipah;Senipah;
+//210;Poin Alpha;Poin Alpha;
+//210;Semayang;Semayang;
+//210;Sesulo;Sesulo;
+//210;Labangka;Labangka;
+//210;Muara Lombok;Muara Lombok;
+//210;Tanah Grogot;Tanah Grogot;
+//
+////Muara Teweh Semayang Via Point Talake
+//211;Muara Teweh;Muara Teweh;
+//211;Benangin;Benangin;
+//211;Talake River;Talake River;
+//211;Toyu;Toyu;
+//211;Lunan River;Lunan River;
+//211;Semayang;Semayang;
+//
+////Melak Semayang via Tanjung Isim
+//212;Melak;Melak;
+//212;Tanjung Isim;Tanjung Isim;
+//212;Toyu Kanan River;Toyu Kanan River;
+//212;Riko River;Riko River;
+//212;Semayang;Semayang;
+//
+////Melak Sarju via Muarakaman
+//213;Melak;Mela;
+//213;ABM Danau Melintang;ABM Danau Melintang;
+//213;Muarakaman;Muarakaman;
+//213;Sarju;Sarju;
+//
+////Long Apung Sarju via ABM Busang
+//214;Long Apung;Long Apung;
+//214;Long Lebusan;Long Lebusan;
+//214;Pedang Api Lake;Pedang Api Lake;
+//214;Sarju;Sarju;
+//
+////Malinau Long Apung via Long Pujungan
+//215;Malinau;Malinau;
+//215;Muara Longnaga;Muara Longnaga;
+//215;Long Pujungan;Long Pujungan;
+//215;Bukit Tikung;Bukit Tikung;
+//215;Datah Dian;Datah Dian;
+//215;Long Apung;Long Apung;
+//
+////Long Pujungan Tanjung Selor
+//216;Long Pujungan;Long Pujungan;
+//216;ABM MT Laung;ABM MT Laung;
+//216;ABM MT Sondang;ABM MT Sondang;
+//216;Tanjung Selor;Tanjung Selor;
+//
+////Tarakan Long Apung via Umbus
+//217;Umbus Island;Umbus Island;
+//217;ABM Mt Sondang;ABM MT Sondang;
+//217;ABM MT Laung;ABM MT Laung
+//217;Long Pujungan;Long Pujungan;
+//
+////Sulawesi
+////Makasar Masamba via Tempe
+//301;Makassar;Makassar;
+//301;Bonto-Bonto;Bonto-Bonto;
+//301;Barata;Barata;
+//301;Danau Tempe;Danau Tempe;
+//301;Sajoanging;Sajoanging;
+//301;Siwa;Siwa;
+//301;Belopa;Belopa;
+//301;Bua;Bua;
+//301;Masamba;Masamba;
+//
+////Makassar Masamba via Bone
+//302;Barata;Barata;
+//302;Bone;Bone;
+//302;Sajoanging;Sajoanging;
+//
+////Makasar Mamuju via Pare Pare
+//303;Bonto-Bonto;Bonto-Bonto;
+//303;Barru;Barru;
+//303;Pare-Pare;Pare-Pare;
+//303;Karawa;Karawa;
+//303;Polewali;Polewali;
+//303;Sendana;Sendana;
+//303;Tapalang;Tapalang;
+//303;Mamuju;Mamuju;
+//
+////Makassar Sumarorong via Pare Pare
+//304;Polewali;Polewali;
+//304;Sumarorong;Sumarorong
+//
+////Makasar Selayar
+//305;Makassar;Makasar;
+//305;Sungguminasa;Sungguminasa;
+//305;Sanrego;Sanrego;
+//305;Janepontoh;Janepontoh;
+//305;Malakaji;Malakaji;
+//305;Bulukumba;Bulukumba;
+//305;Pasitanete;Pasitanete;
+//305;Selayar;Selayar;
+//
+////Masamba Mmuju via Bua
+//306;Masamba;Masamba;
+//306;Bua;Bua;
+//306;Toraja;Toraja;
+//306;Sumarorong;Sumarorong;
+//306;Tapalang;Tapalang;
+//306;Mamuju;Mamuju;
+//
+////Bone Selayar
+//307;Bone;Bone;
+//307;Bulu-Bulu;
+//307;Bulukumba-Bulukumba;
+//
+////Kendari Maranggo
+//308;Kendari;Kendari;
+//308;Tetelara;Tetelara;
+//308;Sugimanuru;Sugimanuru;
+//308;Kinapani;Kinapani;
+//308;Matahora;Matahora;
+//308;Maranggo;Maranggo;
+//
+////Kendari Maranggo via Betoambari
+//309;Sugimanuru;Sugimanuru;
+//309;Betoambari;Betoambari;
+//309;Kinapani;Kinapani;
+//
+////Kendari Kolaka via Pomala
+//310;Kendari;Kendari;
+//310;Ladongi;Ladongi;
+//310;Pomala;Pomala;
+//
+////Kendari Kolaka via Sagia Nibandera
+//311;Ladongi;Ladongi;
+//311;Sangia Nibandera;Sangia Nibandera;
+//
+////POmala Siwa
+//312;Pomala;Pomala;
+//312;Pondaipah;Pondaipah;
+//312;Labuan Dalam;Labuan Dalam;
+//312;Siwa;Siwa;
+//
+////Kendari Soroako
+//313;Kendari;Kendari;
+//313;Silea;Silea;
+//313;Malore;Malore;
+//313;Imip;Imip;
+//313;Morowali;Morowali;
+//313;Soroako;Soroako;
+//
+////Kendari Poso
+//314;Morowali;Morowali;
+//314;Rumbia;Rumbia;
+//314;Momo;Momo;
+//314;Kasiguncu;Kasiguncu;
+//
+////Mamuju Soroako
+//315;Mamuju;Mamuju;
+//315;Kalumpang;Kalumpang;
+//315;Seko;Seko;
+//315;Rampi;Rampi;
+//315;Masamba;Masamba;
+//315;Wotu;Wotu;
+//315;Soroako;Soroako;
+//
+////Luwuk Soroako
+//316;Luwuk;Luwuk;
+//316;Batui;Batui;
+//316;Kerah;Kerah;
+//316;Baturebe;Baturebe;
+//316;Morowali;Morowali;
+//316;Soroako;Soroako;
+//
+////Luwuk Poso via Baturebe
+//317;Baturebe;Baturebe;
+//317;Rumbia;Rumbia;
+//
+////Luwuk Poso via Toili
+//318;Luwuk;Luwuk;
+//318;Toili;Toili;
+//318;Uekuli;Uekuli;
+//318;Kasiguncu;Kasiguncu;
+//
+////Luwuk Poso via Ampana
+//319;Luwuk;Luwuk;
+//319;Petak;Petak;
+//319;Ampana;Ampana;
+//319;Uekuli;Uekuli;
+//
+////Palu Poso
+//320;Palu;Palu;
+//320;Wataoge;Wataoge;
+//320;Toboli;Toboli;
+//320;Sausu River;Sausu River;
+//320;Kawende;Kawende;
+//320;Kasiguncu;Kasiguncu;
+//
+////Palu Seko
+//321;Palu;Palu;
+//321;Salusompu;Salusompu;
+//321;Pasangkayu;Pasangkayu;
+//321;Majene;Majene;
+//321;Sukkeke;Sukkeke;
+//321;Seko;Seko;
+//
+////Palu Masamba
+//322;Kasiguncu;Kasiguncu;
+//322;Tentena;Tentena;
+//322;Rampi;Rampi;
+//322;Masamba;Masamba;
+//
+////Palu Mamuju
+//323;Sukkeke;Sukkeke;
+//323;Mamuju;Mamuju;
+//
+////Palu Toli Toli
+//324;Toboli;Toboli;
+//324;Kasimbar;Kasimbar;
+//324;Magapa;Magapa;
+//324;Pulosu;Pulosu;
+//324;Banagan;Banagan;
+//324;Leonyo Kalemo;Leonyo Kalemo;
+//324;Toli-Toli;Toli-Toli;
+//
+////Toli toli Pogogul
+//326;Toli-Toli;Toli-Toli;
+//326;Santigi;Santigi;
+//326;Dako;Dako;
+//326;Pogogul;Pogogul;
+//
+////Toli Toli Gorontalo
+//327;Dako;Dako;
+//327;Paleleh;Paleleh;
+//327;Matua;Matua;
+//327;Pontolo;Pontolo;
+//327;Gorontalo;Gorontalo;
+//
+////Gorontalo Manado
+//328;Pontolo;Pontolo;
+//328;Loyo;Loyo;
+//328;Bohabak;Bohabak;
+//328;Lolak;Lolak;
+//328;Tenga;Tenga;
+//328;Popoh;Popoh;
+//328;Wenang;Wenang;
+//328;Manado;Manado;
+//
+////Manado Lilang
+//329;Manado;Manado;
+//329;Sampiri;Sampiri;
+//329;Lilang;Lilang;
+//
+////Manado Naha
+//329;Manado;Manado;
+//329;ABM Naeng BEsar;ABM Naeng Besar;
+//329;Talise;Talise;
+//329;Lamanggo;Lamanggo;
+//329;Toang;Toang;
+//329;Kanang;Kanang;
+//329;Sowang;Sowang;
+//329;Naha;Naha;
+
+//WARR VFR ROUTE
+
+//Victor 14
+
+//14;ANY;ANY;
+//14;AKREO;AKREO;
+//14;TIRGO;TIRGO;
+//14;GODON;GODON;
+//14;PURWODADI;PURWODADI;
+//14;SONGO;SONGO;
+//14;NGLORAM;NGLORAM;
+//14;BOJONEGORO;BOJONEGORO;
+//14;ABEAM BABAT;ABEAM BABAT;
+//14;LAMONGAN;LAMONGAN;
+//14;CERME;CERME;
+//14;KALIJUDAN;KALIJUDAN;
+//14;SBR;SBR;
+//101;SBR;SBR;
+//101;SIDOARJO;SIDOARJO;
+//101;MOJOKERTO;MOJOKERTO;
+//101;NGORO;NGORO;
+//101A;SIDOARJO;SIDOARJO;
+//101A;PANDAAN;PANDAAN;
+//102;SIDOARJO;SIDOARJO;
+//102;PASURUAN;PASURUAN;
+//102;PROBOLINGGO;PROBOLINGGO;
+//102;ABEAM PAITON;ABEAM PAITON;
+//102;GUNUNG RINGGIT;GUNUNG RINGGIT;
+//102;CAPE JANGKAR;CAPE JANGKAR;
+//102;ABEAM BALURAN;ABEAM BALURAN;
+//102;GILIMANUK;GILIMANUK;
+//102;BLIMBINGSARI;BLIMBINGSARI;
