@@ -7,18 +7,25 @@ E106.39.40.000
 60
 60
 -0,1
-WIIF_WIP
-Sector File maintained by ID Sectorfile Updater Working Group
+WIIF_WIP;WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\Sectors;WAAF_WIP\Others;
+//Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
 RUMPUT;#4e844e;
 ASPAL;#817a79;
 CONCRETE;###bdb5ac;
+RWYEDGE;#f5f5f5;
+RWYMARK;#f5f5f5;
 TAXILINE;#ffff00;
 PUTIH;#ffffff;
 RUNWAY;#615f61;
 KUNING;#ffaa00;
 BIRU;#8fc0ff;
+GENTENG;#986f08;
+TAXILINE;#ffff00;
+TWYEDGE;#cccc00;
+OUTLINE;#463304;
+PARKING;#393704;
 
 [Airport]
 F;wiifap.ap
@@ -46,7 +53,8 @@ F;WIIF.AWL
 F;WIIF.AWH
 
 [GEO]
-F;wiifgeooo.geo
+//F;wiifgeooo.geo
+F;wiif.geo
 F;wirr.geo
 F;wiii.geo
 F;WIPP.GEO
@@ -59,6 +67,8 @@ F;WITT.GEO
 F;WIDD.GEO
 F;WIEE.GEO
 F;WIMM.GEO
+F;WIMN.GEO
+F;WIKK.GEO
 
 [ARTCC]
 F;wiiffir.artcc
