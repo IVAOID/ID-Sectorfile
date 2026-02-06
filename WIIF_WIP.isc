@@ -38,6 +38,12 @@ F;WIIF.AWL
 [HIGH AIRWAY]
 F;WIIF.AWH
 
+[VFRENR]
+F;GEN\WIIF.vfi
+
+[VFRRTEENR]
+F;GEN\WIIF.vrt
+
 [GEO]
 F;wiifgeooo.geo
 F;wirr.geo
