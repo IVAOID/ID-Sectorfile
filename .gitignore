@@ -1,7 +1,12 @@
-update.ini
-WIIF.isc
 WAAF.isc
-WAAF_W_CTR.isc
-Include/WAAF_W_CTR
-Include/WIIF
+WAAF_P.isc
+WIIF.isc
+WIIF_P.isc
+
+update.ini
+
+Include/VFR_WAAF
 Include/WAAF
+Include/WAAF_P
+Include/WIIF
+Include/WIIF_P

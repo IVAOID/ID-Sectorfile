@@ -7,12 +7,13 @@ E106.39.40.000
 60
 60
 -0,1
-WIIF_WIP;WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\Sectors;WAAF_WIP\Others;
+WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\Sectors;WAAF_WIP\Others;
 //Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
 RUMPUT;#4e844e;
 ASPAL;#817a79;
+BUILDING;#05055A
 CONCRETE;###bdb5ac;
 RWYEDGE;#f5f5f5;
 RWYMARK;#f5f5f5;
@@ -27,115 +28,120 @@ TWYEDGE;#cccc00;
 OUTLINE;#463304;
 PARKING;#393704;
 
+[ATIS]
+
+[ATC]
+F;GEN\WIIF.atc
+
+
 [Airport]
-F;wiifap.ap
+F;GEN\WIIF.ap
 
 [Runway]
-F;wiifrw.rw
+F;GEN\WIIF.rw
 
 [GATES]
-F;WIIF.GTS
-F;wibbgates.gts
+F;GEN\WIIF.gts
+//F;wibbgates.gts
 
 [VOR]
-F;WIIF.VOR
+F;GEN\WIIF.vor
 
 [NDB]
-F;WIIF.NDB
+F;GEN\WIIF.ndb
 
 [FIXES]
-F;WIIF.FIX
+F;GEN\WIIF.fix
 
 [LOW AIRWAY]
-F;WIIF.AWL
+F;GEN\WIIF.AWL
 
 [HIGH AIRWAY]
-F;WIIF.AWH
+F;GEN\WIIF.AWH
 
 [GEO]
 //F;wiifgeooo.geo
-F;wiif.geo
-F;wirr.geo
-F;wiii.geo
-F;WIPP.GEO
-F;WIHH.GEO
-F;WIHP.GEO
-F;WAHH.GEO
-F;WAHI.GEO
-F;WAHL.GEO
-F;WICA.GEO
-F;WICC.GEO
-F;WIGG.GEO
-F;WIJJ.GEO
-F;WIKK.GEO
-F;WIKT.GEO
-F;WILL.GEO
-F;WIOO.GEO
-F;WIBB.GEO
-F;WAHS.GEO
-F;WITT.GEO
-F;WIDD.GEO
-F;WIEE.GEO
-F;WIMM.GEO
-F;WIMN.GEO
-F;WIKK.GEO
+F;GEN\wiif.geo
+F;Airports\wirr.geo
+F;Airports\wiii.geo
+F;Airports\WIPP.GEO
+F;Airports\WIHH.GEO
+F;Airports\WIHP.GEO
+F;Airports\WAHH.GEO
+F;Airports\WAHI.GEO
+F;Airports\WAHL.GEO
+F;Airports\WICA.GEO
+F;Airports\WICC.GEO
+F;Airports\WIGG.GEO
+F;Airports\WIJJ.GEO
+F;Airports\WIKK.GEO
+F;Airports\WIKT.GEO
+F;Airports\WILL.GEO
+F;Airports\WIOO.GEO
+F;Airports\WIBB.GEO
+F;Airports\WAHS.GEO
+F;Airports\WITT.GEO
+F;Airports\WIDD.GEO
+F;Airports\WIEE.GEO
+F;Airports\WIMM.GEO
+F;Airports\WIMN.GEO
+F;Airports\WIKK.GEO
 
 [ARTCC]
-F;wiiffir.artcc
-F;wiifoceanic.artcc
-F;wiifubac.artcc
-F;wiifumdn.artcc
-F;wiifupku.artcc
-F;wiifuplb.artcc
-F;wiifupkp.artcc
-F;wiifujkt.artcc
-F;wiifubnd.artcc
-F;wiifutpn.artcc
-F;wiifujog.artcc
-F;wiifupnk.artcc
-F;wiifusrg.artcc
-F;wiifutpg.artcc
-F;wiifunta.artcc
-F;WIIF LOWER.ARTCC
-
+F;Sectors\WIIF.artcc
 
 [ARTCC HIGH]
-F;wieetma.artcc
-F;wimmtma.artcc
-F;wibbtma.artcc
-F;wipptma.artcc
-F;wiiitma.hartcc
-F;wioo.hartcc
-F;WIKK.HARTCC
-F;wimm.lartcc
-F;WICC.HARTCC
-F;WAHS.HARTCC
-F;WAHH.HARTCC
-F;WICA.HARTCC
-F;WIDN.HARTCC
-F;WIMM.HARTCC
-F;WSJC_DELEGATED.HARTCC
+F;Sectors\wieetma.artcc
+F;Sectors\wimmtma.artcc
+F;Sectors\wibbtma.artcc
+F;Sectors\wipptma.artcc
+F;Sectors\wiiitma.hartcc
+F;Sectors\wioo.hartcc
+F;Sectors\WIKK.HARTCC
+F;Sectors\wimm.lartcc
+F;Sectors\WICC.HARTCC
+F;Sectors\WAHS.HARTCC
+F;Sectors\WAHH.HARTCC
+F;Sectors\WICA.HARTCC
+F;Sectors\WIDN.HARTCC
+F;Sectors\WIMM.HARTCC
+F;Sectors\WSJC_DELEGATED.HARTCC
 
 [ARTCC LOW]
-F;wibb.lartcc
-F;WIKK.LARTCC
-F;WITT.LARTCC
-F;WILL.LARTCC
-F;WICC.LARTCC
-F;WAHQ.LARTCC
-F;WAHH.LARTCC
-F;WIEE.LARTCC
-F;WIPP.LARTCC
-F;WIJJ.LARTCC
-F;WIGG.LARTCC
-F;WILL.HARTCC
-F;WITT.HARTCC
-F;WIDN.LARTCC
-F;WIDD.LARTCC
-F;WIMN.LARTCC
+F;Sectors\WIIF LOWER.ARTCC
+F;Sectors\wibb.lartcc
+F;Sectors\WIKK.LARTCC
+F;Sectors\WITT.LARTCC
+F;Sectors\WILL.LARTCC
+F;Sectors\WICC.LARTCC
+F;Sectors\WAHQ.LARTCC
+F;Sectors\WAHH.LARTCC
+F;Sectors\WIEE.LARTCC
+F;Sectors\WIPP.LARTCC
+F;Sectors\WIJJ.LARTCC
+F;Sectors\WIGG.LARTCC
+F;Sectors\WILL.HARTCC
+F;Sectors\WITT.HARTCC
+F;Sectors\WIDN.LARTCC
+F;Sectors\WIDD.LARTCC
+F;Sectors\WIMN.LARTCC
+
+[SID]
+
+[STAR]
+
+[VFRFIX]
+
+[VFRROUTE]
+
+[VFRENR]
+F;GEN\WIIF.vfi
+
+[VFRRTEENR]
+F;GEN\WIIF.vrt
 
 [ATC]
-F;WIIF.ATC
+F;GEN\WIIF.ATC
 
 [FILLCOLOR]
-F;WIIF.TFL
+F;GEN\WIIF.TFL
