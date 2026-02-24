@@ -22,7 +22,7 @@ NumFreq=1
 Elevation=0
 
 [ATIS]
-ATCPosition=Bali Radar
+ATCPosition=Ujung Pandang Control
 METAR=WADD
 Takeoff=27
 Landing=27

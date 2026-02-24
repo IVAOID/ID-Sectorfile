@@ -27,23 +27,36 @@ RUNWAY1;#615f61;
 KUNING;#ffaa00;
 BIRU;#8fc0ff;
 
-[Airport]
+[ATIS]
+
+[ATC]
+F;GEN\WAAF.atc
+
+[AIRPORT]
 F;GEN\WAAF.ap
 
-[Runway]
+[ELEVATION]
+
+[SYMBOLS]
+
+[RUNWAY]
 F;GEN\WAAF.rw
+
+[TAXIWAY]
 
 [GATES]
 F;GATES.gts
 
-[VOR]
-F;GEN\WAAF.vor
+[FIXES]
+F;GEN\WAAF.fix
 
 [NDB]
 F;GEN\WAAF.ndb
 
-[FIXES]
-F;GEN\WAAF.fix
+[VOR]
+F;GEN\WAAF.vor
+
+[HOLDENR]
 
 [LOW AIRWAY]
 F;GEN\WAAF.lairway
@@ -51,53 +64,6 @@ F;GEN\WAAF.lairway
 [HIGH AIRWAY]
 F;GEN\WAAF.hairway
 
-[GEO]
-F;GEN\WAAF.geo
-F;waaa.geo
-F;WABB.GEO
-F;WADB.GEO
-F;WADD.GEO
-F;WADL.geo
-F;WADS.GEO
-F;WADY.GEO
-F;WAEE.GEO
-F;waff.geo
-F;WAFJ.GEO
-F;WAFW.GEO
-F;WAGG.GEO
-F;wagi.geo
-F;WAGS.GEO
-F;wahh.geo
-F;WAHI.GEO
-F;WAHL.GEO
-F;wahq.geo
-F;WAHS.GEO
-F;WAJJ.GEO
-F;WAKK.GEO
-F;WAKT.GEO
-F;WALL.GEO
-F;WALS.GEO
-F;WAMG.GEO
-F;WAMM.GEO
-F;WAOO.GEO
-F;WAPP.GEO
-F;WAQQ.GEO
-F;WAQT.GEO
-F;wara.geo
-F;WARC.geo
-F;ward.geo
-F;ware.geo
-F;WARI.GEO
-F;warr.geo
-F;wart.geo
-F;WASS.GEO
-F;WATE.GEO
-F;wato.geo
-F;watt.geo
-F;WAUU.GEO
-F;WAVV.GEO
-F;WAWW.GEO
-F;WAYY.GEO
 
 [ARTCC]
 F;GEN\WAAF.artcc
@@ -129,24 +95,7 @@ F;Sectors\WPDL.HARTCC
 F;Sectors\WAQQ.HARTCC
 
 [ARTCC LOW]
-F;Sectors\WABI.LARTCC
-F;Sectors\WADB.LARTCC
-F;Sectors\WADS.LARTCC
-F;Sectors\WAFW.LARTCC
-F;Sectors\WAGS.LARTCC
-F;Sectors\WAHS.LARTCC
-F;Sectors\WAJO.LARTCC
-F;Sectors\WAKT.LARTCC
-F;Sectors\WALS.LARTCC
-F;Sectors\WAPF.LARTCC
-F;Sectors\WAQM.LARTCC
-F;Sectors\WARD.LARTCC
-F;Sectors\WART.LARTCC
-F;Sectors\WATC.LARTCC
-F;Sectors\WATE.LARTCC
-F;Sectors\WATO.LARTCC
-F;Sectors\WATU.LARTCC
-F;Sectors\WAVV.LARTCC
+F;Sectors\WADA.LARTCC
 F;Sectors\WADL.LARTCC
 F;Sectors\WADD.LARTCC
 F;Sectors\WADY.LARTCC
@@ -175,70 +124,71 @@ F;Sectors\WAYY.LARTCC
 F;Sectors\WAKK.LARTCC
 F;Sectors\WAQT.LARTCC
 
-[ATC]
-//ACC
-WAAF_W_CTR;128.300; //Ujung Control
-WAAF_BLI_CTR;120.700; //Ujung Control
-WAAF_PKN_CTR;134.100; //Ujung Control
-WAAF_MKS_CTR;133.800; //Ujung Control
-WAAF_SBY_CTR;123.900; //Ujung Control
+[SID]
 
-//WAHQ
-WAHQ_TWR;122.700;Marmo Tower
+[STAR]
 
-//WARR
-//WARR_E_APP;122.850; //Surabaya Approach TMA EAST;
-//WARR_E_APP;124.000; //Surabaya Approach TMA EAST;
-//WARR_W_APP;125.100; //Surabaya Approach TMA WEST;
-//WARR_W_APP;123.550; //Surabaya Approach TMA WEST;
-WARR_APP;124.000; //Surabaya Approach;
-//WARR_D_APP;123.200; //Surabaya Director;
-//WARR_D_APP;124.500; //Surabaya Director;
-WARR_TWR;118.300; //Juanda Tower;
-//WARR_TWR;118.100; //Juanda Tower;
-WARR_GND;118.900; //Juanda Ground;
-//WARR_GND;119.150; //Juanda Ground;
-WARR_DEL;121.650; //Juanda Delivery;
-
-//WARD
-WARD_TWR;118.050; //Dhoho Tower
-
-//WARI
+[VFRFIX]
+//F;Airports/wadd.vfi
+//F;Airports/wall.vfi
+//F;Airports/wamm.vfi
+//F;Airports/warr.vfi
 
 
-//WARA
-WARA_TWR;122.500; //Abdulrahman Tower
 
-//WART
-WART_TWR;118.650; //Trunojoyo Tower
 
-//WADD
-//WADD_E_APP;119.900; //Bali Radar (TMA East) 
-//WADD_W_APP;119.300; //Bali Radar (TMA West)
-WADD_APP;119.700;//Bali Radar (BALI CTR)
-WADD_TWR;118.100;//Ngurah Tower
-//WADD_TWR;118.500;//Ngurah Tower
-WADD_GND;118.800;//Ngurah Ground
-WADD_DEL;121.850;//Ngurah Del
+[VFRROUTE]
 
-//WADL
-WADL_APP;118.55;//Lombok Approach
-WADL_APP:118.95;//Lombok Approach
-WADL_TWR;118.55;//Lombok Tower
-WADL_TWR:118.95;//Lombok Tower
+[VFRENR]
+F;GEN\WAAF.vfi
 
-//WAAA
-WAAA_APP;127.500; //Ujung Pandang Approach (TMA)
-WAAA_APP;120.600; //Makassar Director (CTR)
-WAAA_APP;119.400; //Makassar Director (CTR)
+[VFRRTEENR]
+F;GEN\WAAF.vrt
 
-WAAA_TWR;118.100; //Hasanuddin Tower 
-WAAA_TWR;118.600; //Hasanuddin Tower
-WAAA_GND;121.600; //Hasanuddin Ground
+[MVA]
 
-//WATT
-WATT_APP;125.250; //Kupang Approach
-WATT_TWR;118.300; //El Tari Tower
+[GEO]
+F;GEN\WAAF.geo
+F;WAAA.GEO
+F;WABB.GEO
+F;WADD.GEO
+F;WADB.GEO
+F;WAEE.GEO
+F;WAFJ.GEO
+F;WAGG.GEO
+F;WAGI.GEO
+F;WAGS.GEO
+F;WALL.GEO
+F;WALS.GEO
+F;WAMM.GEO
+F;WAMG.GEO
+F;WAKK.GEO
+F;WAKT.GEO
+F;WADL.GEO
+F;WAOO.GEO
+F;WAPP.GEO
+F;WAQQ.GEO
+F;WARD.GEO
+F;WARC.GEO
+F:WARI.GEO
+F;WARR.GEO
+F;WART.GEO
+F;WASS.GEO
+F;WATT.GEO
+F;WATO.GEO
+F;WAHH.GEO
+F;WAHQ.GEO
+F;WAFF.GEO
+F;WAHS.GEO
+F;WAHI.GEO
+F;WAUU.GEO
+F;WAJJ.GEO
+F;WAVV.GEO
+F;WAWW.GEO
+F;WAYY.GEO
+
+
+
 
 
 [FILLCOLOR]

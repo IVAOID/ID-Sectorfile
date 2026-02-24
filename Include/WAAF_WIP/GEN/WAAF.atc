@@ -363,7 +363,7 @@ WARR_TWR;118.300;WARR WAAF;WARR_TWR.cpr;;; //Juanda Tower;
 //WARR_TWR;118.100;WAAF WA;;;; //Juanda Tower;
 WARR_GND;118.900;WARR WAAF;WARR_GND.cpr;;; //Juanda Ground;
 //WARR_GND;119.150;WAAF WA;;;; //Juanda Ground;
-WARR_DEL;121.650;WARR WAAF;WARR_GND.cpr;;; //Juanda Delivery;
+WARR_DEL;121.650;WARR WAAF;WARR_DEL.cpr;;; //Juanda Delivery;
 
 //WART
 WART_TWR;118.650;WAAF WA;;;; //Trunojoyo Tower

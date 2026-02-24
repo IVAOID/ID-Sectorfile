@@ -22,11 +22,11 @@ NumFreq=1
 Elevation=0
 
 [ATIS]
-ATCPosition=Ujung Pandang Control
-METAR=
+ATCPosition=Juanda Ground
+METAR=WARR
 Takeoff=
 Landing=
-Remarks=Controlling FL240 above. Extending to WAPP. 17th IVAO ID Anniversary.
+Remarks=
 TransLevel=130
 TransAlt=11000
 TMA=0
