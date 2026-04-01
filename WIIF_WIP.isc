@@ -1,4 +1,4 @@
-//Set Update : 13 September 2025
+//Set Update : April 2026
 
 
 [INFO]
@@ -7,7 +7,7 @@ E106.39.40.000
 60
 60
 -0,1
-WIIF_WIP
+WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\GEN;WIIF_WIP\Sectors;
 Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
@@ -20,66 +20,48 @@ RUNWAY;#615f61;
 KUNING;#ffaa00;
 BIRU;#8fc0ff;
 
-[Airport]
-F;wiifap.ap
-[Runway]
-F;wiifrw.rw
+[ATIS]
+
+[ATC]
+F;GEN\WIIF.ATC
+
+[AIRPORT]
+F;GEN\WIIF.ap
+
+[ELEVATION]
+
+[SYMBOLS]
+
+[RUNWAY]
+F;GEN\WIIF.rw
+
+[TAXIWAY]
+
 [GATES]
-F;WIIF.GTS
-F;wibbgates.gts
-[VOR]
-F;WIIF.VOR
-[NDB]
-F;WIIF.NDB
+F;GEN\WIIF.GTS
+
+
 [FIXES]
-F;WIIF.FIX
+F;GEN\WIIF.FIX
+
+[NDB]
+F;GEN\WIIF.NDB
+
+[VOR]
+F;GEN\WIIF.VOR
+
+[HOLDENR]
+
 [LOW AIRWAY]
 F;WIIF.AWL
+
+
 [HIGH AIRWAY]
 F;WIIF.AWH
 
-[GEO]
-F;wiifgeooo.geo
-F;wirr.geo
-F;wiii.geo
-F;WIPP.GEO
-F;WIHH.GEO
-F;WIHP.GEO
-F;WAHH.GEO
-F;WAHI.GEO
-F;WAHL.GEO
-F;WICA.GEO
-F;WICC.GEO
-F;WIGG.GEO
-F;WIJJ.GEO
-F;WIKK.GEO
-F;WIKT.GEO
-F;WILL.GEO
-F;WIOO.GEO
-F;WIBB.GEO
-F;WAHS.GEO
-F;WITT.GEO
-F;WIDD.GEO
-F;WIEE.GEO
-F;WIMM.GEO
 [ARTCC]
-F;wiiffir.artcc
-F;wiifoceanic.artcc
-F;wiifubac.artcc
-F;wiifumdn.artcc
-F;wiifupku.artcc
-F;wiifuplb.artcc
-F;wiifupkp.artcc
-F;wiifujkt.artcc
-F;wiifubnd.artcc
-F;wiifutpn.artcc
-F;wiifujog.artcc
-F;wiifupnk.artcc
-F;wiifusrg.artcc
-F;wiifutpg.artcc
-F;wiifunta.artcc
+F;Sectors\WIIF.artcc
 F;WIIF LOWER.ARTCC
-
 
 [ARTCC HIGH]
 F;wieetma.artcc
@@ -116,8 +98,50 @@ F;WIDN.LARTCC
 F;WIDD.LARTCC
 F;WIMN.LARTCC
 
-[ATC]
-F;WIIF.ATC
+[SID]
+
+[STAR]
+
+[VFRFIX]
+
+
+[VFRROUTE]
+
+[VFRENR]
+F;GEN\WIIF.vfi
+
+[VFRRTEENR]
+F;GEN\WIIF.vrt
+
+[MVA]
+
+[GEO]
+F;GEN\WIIF.geo
+//F;wiifgeooo.geo
+//F;wirr.geo
+//F;wiii.geo
+//F;WIPP.GEO
+F;WIHH.GEO
+//F;WIHP.GEO
+//F;WAHH.GEO
+//F;WAHI.GEO
+//F;WAHL.GEO
+//F;WICA.GEO
+//F;WICC.GEO
+//F;WIGG.GEO
+//F;WIJJ.GEO
+//F;WIKK.GEO
+//F;WIKT.GEO
+//F;WILL.GEO
+//F;WIOO.GEO
+//F;WIBB.GEO
+//F;WAHS.GEO
+//F;WITT.GEO
+//F;WIDD.GEO
+//F;WIEE.GEO
+//F;WIMM.GEO
 
 [FILLCOLOR]
 F;WIIF.TFL
+
+
