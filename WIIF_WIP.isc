@@ -11,6 +11,13 @@ WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\GEN;WIIF_WIP\Sectors;
 Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
+POLY_SURFACE;#817a79;
+POLY_GRASS;#014f0a;
+POLY_RUNWAY;#615f61;
+POLY_BUILDING;#986f08;
+POLY_WATER;#74A7F6;
+MARKING_WHITE;#ffffff;
+MARKING_YELLOW;#CCCC00;
 RUMPUT;#4e844e;
 ASPAL;#817a79;
 CONCRETE;###bdb5ac;
@@ -38,8 +45,6 @@ F;GEN\WIIF.rw
 [TAXIWAY]
 
 [GATES]
-F;GEN\WIIF.GTS
-
 
 [FIXES]
 F;GEN\WIIF.FIX
@@ -55,7 +60,6 @@ F;GEN\WIIF.VOR
 [LOW AIRWAY]
 F;WIIF.AWL
 
-
 [HIGH AIRWAY]
 F;WIIF.AWH
 
@@ -64,46 +68,57 @@ F;Sectors\WIIF.artcc
 F;WIIF LOWER.ARTCC
 
 [ARTCC HIGH]
-F;wieetma.artcc
-F;wimmtma.artcc
-F;wibbtma.artcc
-F;wipptma.artcc
-F;wiiitma.hartcc
-F;wioo.hartcc
-F;WIKK.HARTCC
-F;wimm.lartcc
-F;WICC.HARTCC
-F;WAHS.HARTCC
-F;WAHH.HARTCC
-F;WICA.HARTCC
-F;WIDN.HARTCC
-F;WIMM.HARTCC
-F;WSJC_DELEGATED.HARTCC
+F;Sectors\wieetma.artcc
+F;Sectors\wimmtma.artcc
+F;Sectors\wibbtma.artcc
+F;Sectors\wipptma.artcc
+F;Sectors\wiiitma.hartcc
+F;Sectors\wioo.hartcc
+F;Sectors\WIKK.HARTCC
+F;Sectors\wimm.lartcc
+F;Sectors\WICC.HARTCC
+F;Sectors\WAHS.HARTCC
+F;Sectors\WAHH.HARTCC
+F;Sectors\WICA.HARTCC
+F;Sectors\WIDN.HARTCC
+F;Sectors\WIMM.HARTCC
+F;Sectors\WSJC_DELEGATED.HARTCC
 
 [ARTCC LOW]
-F;wibb.lartcc
-F;WIKK.LARTCC
-F;WITT.LARTCC
-F;WILL.LARTCC
-F;WICC.LARTCC
-F;WAHQ.LARTCC
-F;WAHH.LARTCC
-F;WIEE.LARTCC
-F;WIPP.LARTCC
-F;WIJJ.LARTCC
-F;WIGG.LARTCC
-F;WILL.HARTCC
-F;WITT.HARTCC
-F;WIDN.LARTCC
-F;WIDD.LARTCC
-F;WIMN.LARTCC
+F;Sectors\WAHH.LARTCC
+F;Sectors\WAHL.LARTCC
+F;Sectors\WAHQ.LARTCC
+F;Sectors\WAHS.LARTCC
+F;Sectors\wibb.lartcc
+F;Sectors\WIBJ.LARTCC
+F;Sectors\WICA.LARTCC
+F;Sectors\WICC.LARTCC
+F;Sectors\WICM.LARTCC
+F;Sectors\WICN.LARTCC
+F;Sectors\WIDD.LARTCC
+F;Sectors\WIDN.LARTCC
+F;Sectors\WIEE.LARTCC
+F;Sectors\WIGG.LARTCC
+F;Sectors\WIHH.LARTCC
+F;Sectors\WIII.LARTCC
+F;Sectors\WIJJ.LARTCC
+F;Sectors\WIKK.LARTCC
+F;Sectors\WIKT.LARTCC
+F;Sectors\WILL.LARTCC
+F;Sectors\WIMB.LARTCC
+F;Sectors\WIMM.LARTCC
+F;Sectors\WIMN.LARTCC
+F;Sectors\WIOK.LARTCC
+F;Sectors\WIOO.LARTCC
+F;Sectors\WIPP.LARTCC
+F;Sectors\WIRR.LARTCC
+F;Sectors\WITT.LARTCC
 
 [SID]
 
 [STAR]
 
 [VFRFIX]
-
 
 [VFRROUTE]
 
@@ -116,30 +131,37 @@ F;GEN\WIIF.vrt
 [MVA]
 
 [GEO]
-F;GEN\WIIF.geo
-//F;wiifgeooo.geo
-//F;wirr.geo
-//F;wiii.geo
-//F;WIPP.GEO
-F;WIHH.GEO
-//F;WIHP.GEO
-//F;WAHH.GEO
-//F;WAHI.GEO
-//F;WAHL.GEO
-//F;WICA.GEO
-//F;WICC.GEO
-//F;WIGG.GEO
-//F;WIJJ.GEO
-//F;WIKK.GEO
-//F;WIKT.GEO
-//F;WILL.GEO
-//F;WIOO.GEO
-//F;WIBB.GEO
-//F;WAHS.GEO
-//F;WITT.GEO
-//F;WIDD.GEO
-//F;WIEE.GEO
-//F;WIMM.GEO
+F;GEN\wiif.geo
+F;Airports\wirr.geo
+F;Airports\wiii.geo
+F;Airports\WIPP.GEO
+F;Airports\WIHH.GEO
+F;Airports\WIHP.GEO
+F;Airports\WAHH.GEO
+F;Airports\WAHI.GEO
+F;Airports\WAHL.GEO
+F;Airports\WAHQ.GEO
+F;Airports\WAHS.GEO
+F;Airports\WICA.GEO
+F;Airports\WICC.GEO
+F;Airports\WICM.GEO
+F;Airports\WICN.GEO
+F;Airports\WIDN.GEO
+F;Airports\WIGG.GEO
+F;Airports\WIJJ.GEO
+F;Airports\WIKK.GEO
+F;Airports\WIKT.GEO
+F;Airports\WILL.GEO
+F;Airports\WIOO.GEO
+F;Airports\WIOK.GEO
+F;Airports\WIBB.GEO
+F;Airports\WAHS.GEO
+F;Airports\WITT.GEO
+F;Airports\WIDD.GEO
+F;Airports\WIEE.GEO
+F;Airports\WIMB.GEO
+F;Airports\WIMM.GEO
+F;Airports\WIMN.GEO
 
 [FILLCOLOR]
 F;WIIF.TFL
