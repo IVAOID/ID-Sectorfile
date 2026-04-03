@@ -2,21 +2,21 @@
 //Callsign;Freq;Transfer List;Profile;ATIS;CPDLC;LOA;
 
 //Composite Center
-WAAF_B_CTR;133.550;WAAF WIIF WA;ACC.cpr;;; //Bali Sector
-WAAF_L_CTR;128.450;WAAF WIIF WA;ACC.cpr;;;  //Balikpapan Sector
-WAAF_M_CTR;134;250;WAAF WIIF WA;ACC.cpr;;;  //Makasar Sector
-WAAF_J_CTR;134.650;WAAF WIIF WA;ACC.cpr;;;  //Jayapura Sector
+WAAF_B_CTR;133.550;WAAF WIIF WA;;;; //Bali Sector
+WAAF_L_CTR;128.450;WAAF WIIF WA;;;;  //Balikpapan Sector
+WAAF_M_CTR;134;250;WAAF WIIF WA;;;;  //Makasar Sector
+WAAF_J_CTR;134.650;WAAF WIIF WA;;;;  //Jayapura Sector
 
 //Upper Controller
-WAAF_BLI_CTR;120.700;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_BPN_CTR;132.500;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_MKS_CTR;133.800;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_MNO_CTR;128.100;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_PKN_CTR;134.100;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_NSA_CTR;128.300;WAAF WIIF WA;ACC.cpr;;; //Ujung COntrol
-WAAF_SBY_CTR;123.900;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
-WAAF_AMN_CTR;132.350;WAAF WIIF WA;ACC.cpr;;; //Ujung COntrol
-WAAF_PUA_CTR;133.100;WAAF WIIF WA;ACC.cpr;;; //Ujung Control
+WAAF_BLI_CTR;120.700;WAAF WIIF WA;;;; //Ujung Control
+WAAF_BPN_CTR;132.500;WAAF WIIF WA;;;; //Ujung Control
+WAAF_MKS_CTR;133.800;WAAF WIIF WA;;;; //Ujung Control
+WAAF_MNO_CTR;128.100;WAAF WIIF WA;;;; //Ujung Control
+WAAF_PKN_CTR;134.100;WAAF WIIF WA;;;; //Ujung Control
+WAAF_NSA_CTR;128.300;WAAF WIIF WA;;;; //Ujung COntrol
+WAAF_SBY_CTR;123.900;WAAF WIIF WA;;;; //Ujung Control
+WAAF_AMN_CTR;132.350;WAAF WIIF WA;;;; //Ujung COntrol
+WAAF_PUA_CTR;133.100;WAAF WIIF WA;;;; //Ujung Control
 
 
 
@@ -356,14 +356,14 @@ WARD_TWR;118.050; //Dhoho Tower
 //WARR_E_APP;124.000;WAAF WA;;;; //Surabaya Approach TMA EAST;
 //WARR_W_APP;125.100;WAAF WA;;;; //Surabaya Approach TMA WEST;
 //WARR_W_APP;123.550;WAAF WA;;;; //Surabaya Approach TMA WEST;
-WARR_APP;123.200;WARR WAAF;WARR_APP.cpr;;; //Surabaya Approach;
+WARR_APP;123.200;WARR WAAF;;;; //Surabaya Approach;
 //WARR_D_APP;123.200;WAAF WA;;;; //Surabaya Director;
 //WARR_D_APP;124.500;WAAF WA;;;; //Surabaya Director;
-WARR_TWR;118.300;WARR WAAF;WARR_TWR.cpr;;; //Juanda Tower;
+WARR_TWR;118.300;WARR WAAF;;;; //Juanda Tower;
 //WARR_TWR;118.100;WAAF WA;;;; //Juanda Tower;
-WARR_GND;118.900;WARR WAAF;WARR_GND.cpr;;; //Juanda Ground;
+WARR_GND;118.900;WARR WAAF;;;; //Juanda Ground;
 //WARR_GND;119.150;WAAF WA;;;; //Juanda Ground;
-WARR_DEL;121.650;WARR WAAF;WARR_DEL.cpr;;; //Juanda Delivery;
+WARR_DEL;121.650;WARR WAAF;;;; //Juanda Delivery;
 
 //WART
 WART_TWR;118.650;WAAF WA;;;; //Trunojoyo Tower
