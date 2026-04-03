@@ -68,20 +68,21 @@ F;Sectors\WIIF.artcc
 F;WIIF LOWER.ARTCC
 
 [ARTCC HIGH]
-F;Sectors\wieetma.artcc
-F;Sectors\wimmtma.artcc
-F;Sectors\wibbtma.artcc
-F;Sectors\wipptma.artcc
-F;Sectors\wiiitma.hartcc
-F;Sectors\wioo.hartcc
-F;Sectors\WIKK.HARTCC
-F;Sectors\wimm.lartcc
-F;Sectors\WICC.HARTCC
-F;Sectors\WAHS.HARTCC
-F;Sectors\WAHH.HARTCC
-F;Sectors\WICA.HARTCC
-F;Sectors\WIDN.HARTCC
-F;Sectors\WIMM.HARTCC
+F;Sectors\WAHH.hartcc
+F;Sectors\WAHQ.hartcc
+F;Sectors\WAHS.hartcc
+F;Sectors\WIBB.hartcc
+F;Sectors\WICA.hartcc
+F;Sectors\WICC.hartcc
+F;Sectors\WIDN.hartcc
+F;Sectors\WIEE.hartcc
+F;Sectors\WIII.hartcc
+F;Sectors\WIKK.hartcc
+F;Sectors\WILL.hartcc
+F;Sectors\WIMM.hartcc
+F;Sectors\WIOO.hartcc
+F;Sectors\WIPP.hartcc
+F;Sectors\WITT.hartcc
 F;Sectors\WSJC_DELEGATED.HARTCC
 
 [ARTCC LOW]
