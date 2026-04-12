@@ -4,6 +4,7 @@
 
 ## WIIF
 ### Adds
+WIPP SMAC
 
 ### Deletes
 Redundant files
@@ -12,13 +13,16 @@ Redundant files
 .isc files standardization
 Color Definition Updates
 GEO-Coastline
-WIII TMA
 WIII SID/STAR
 WIPP TMA
+WIII SMAC
 
 ## WAAF
 ### Adds
-
+WAAA SMAC
+WABB SMAC
+WALL SMAC
+WASS SMAC
 
 ### Deletes
 Redundant files

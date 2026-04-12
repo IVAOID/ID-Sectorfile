@@ -4,6 +4,7 @@ WAAF_WIP2.isc
 WIIF.isc
 WIIF_P.isc
 WIIF_WIP2.isc
+Sing*.*
 
 update.ini
 
@@ -14,3 +15,5 @@ Include/WIIF
 Include/WIIF_P
 Include/WAAF_WIP2
 Include/WIIF_WIP2
+Include/WS*
+Include/WM*
