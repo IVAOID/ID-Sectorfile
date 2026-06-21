@@ -1,3 +1,4 @@
+OMAE.isc
 WAAF.isc
 WAAF_P.isc
 WAAF_WIP2.isc
@@ -8,6 +9,7 @@ Sing*.*
 
 update.ini
 
+Include/OMAE
 Include/VFR_WAAF
 Include/WAAF
 Include/WAAF_P

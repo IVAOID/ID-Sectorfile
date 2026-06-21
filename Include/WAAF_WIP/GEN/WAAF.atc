@@ -345,7 +345,7 @@ WARA_TWR;122.500; //Abdulrahman Tower
 //WARC
 
 //WARD
-WARD_TWR;118.050; //Dhoho Tower
+WARD_TWR;118.050;WARR WAAF //Dhoho Tower
 
 //WARE
 
@@ -358,9 +358,9 @@ WARD_TWR;118.050; //Dhoho Tower
 //WARR_E_APP;124.000;WAAF WA;;;; //Surabaya Approach TMA EAST;
 //WARR_W_APP;125.100;WAAF WA;;;; //Surabaya Approach TMA WEST;
 //WARR_W_APP;123.550;WAAF WA;;;; //Surabaya Approach TMA WEST;
-WARR_APP;123.200;WARR WAAF;;;; //Surabaya Approach;
-//WARR_D_APP;123.200;WAAF WA;;;; //Surabaya Director;
-//WARR_D_APP;124.500;WAAF WA;;;; //Surabaya Director;
+WARR_APP;123.200;WARR WADD WAHS WAAF;;;; //Surabaya Approach;
+//WARR_D_APP;123.200;WARR WADD WAHS WAAF;;;; //Surabaya Director;
+//WARR_D_APP;124.500;WARR WADD WAHS WAAF;;;; //Surabaya Director;
 WARR_TWR;118.300;WARR WAAF;;;; //Juanda Tower;
 //WARR_TWR;118.100;WAAF WA;;;; //Juanda Tower;
 WARR_GND;118.900;WARR WAAF;;;; //Juanda Ground;

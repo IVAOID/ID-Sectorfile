@@ -74,7 +74,6 @@ F;GEN\WAAF.hairway
 
 [ARTCC]
 F;GEN\WAAF.artcc
-//F;WAAFNEWUTA.ARTCC
 
 [ARTCC HIGH]
 F;Sectors\WADD.HARTCC
@@ -157,9 +156,6 @@ F;Sectors\WAQT.LARTCC
 //F;Airports/wall.vfi
 //F;Airports/wamm.vfi
 //F;Airports/warr.vfi
-
-
-
 
 [VFRROUTE]
 

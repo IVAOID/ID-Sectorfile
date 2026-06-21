@@ -1,4 +1,4 @@
-//Set Update : April 2026
+//Set Update : June 2026
 
 
 [INFO]
@@ -65,7 +65,6 @@ F;WIIF.AWH
 
 [ARTCC]
 F;Sectors\WIIF.artcc
-F;WIIF LOWER.ARTCC
 
 [ARTCC HIGH]
 F;Sectors\WAHH.hartcc

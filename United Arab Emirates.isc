@@ -1,0 +1,78 @@
+// -------------------------------------------------------------------- 
+// - (C)2023 IVAO GCC Division xg.ivao.aero
+// - Usage only allowed on the IVAO Network
+// --------------------------------------------------------------------
+// airac 2505 latest on IAB on 20250704.
+// Updated OMAA ground layout 20250723
+[INFO]
+N024.25.59.000
+E054.39.04.000
+62
+55.5
+2.1
+OMAE;OMAE\OMAA;OMAE\OMAD;OMAE\OMAF;OMAE\OMAG;OMAE\OMAH;OMAE\OMAL;OMAE\OMBY;OMAE\OMDB;OMAE\OMDL;OMAE\OMDM;OMAE\OMDW;OMAE\OMFJ;OMAE\OMRJ;OMAE\OMRK;OMAE\OMRS;OMAE\OMSJ;OMAE\OMAE_FIR\;
+
+[ATC]
+F;OMAE_FIR\OMAE-FIR.atc
+
+[AIRPORT]
+F;OMAE_FIR\OMAE-FIR.apt
+
+[AIRSPACE]
+F;OMAE_FIR\OMAE-FIR.airspace
+
+[AIRSPACE LOW]
+F;OMAA\OMAA-Airspace-low.txt
+F;OMAD\OMAD-Airspace-low.txt
+F;OMAL\OMAL-Airspace-low.txt
+F;OMBY\OMBY-Airspace-low.txt
+F;OMDB\OMDB-Airspace-low.txt
+F;OMDW\OMDW-Airspace-low.txt
+F;OMBY\OMBY-Airspace-low.txt
+F;OMFJ\OMFJ-Airspace-low.txt
+F;OMRJ\OMRJ-Airspace-low.txt
+F;OMSJ\OMSJ-Airspace-low.txt
+
+
+[AIRSPACE HIGH]
+F;OMAA\OMAA-Airspace-high.txt
+F;OMDB\OMDB-Airspace-high.txt
+F;OMFJ\OMFJ-Airspace-high.txt
+F;OMRK\OMRK-Airspace-high.txt
+
+
+[HIGH AIRWAY]
+F;OMAE_FIR\OMAE-FIR.hairway
+
+[LOW AIRWAY]
+F;OMAE_FIR\OMAE-FIR.lairway
+
+[RUNWAY]
+F;OMAE_FIR\OMAE-FIR.rwy
+
+[FIXES]
+F;OMAE_FIR\OMAE-FIR.fixes
+[VOR]
+F;OMAE_FIR\OMAE-FIR.vor
+[NDB]
+F;OMAE_FIR\OMAE-FIR.ndb
+ 
+[GEO]
+F;OMAE_FIR\coast.geo
+F;OMAE_FIR\SKYDIVEDUBAI.geo
+F;OMAE_FIR\OMAE-FIR.danger
+F;OMAE_FIR\OMAE-FIR.restrict
+F;OMAE_FIR\OMAE-FIR.prohibit
+F;OMAA\OMAA.geo
+F;OMAL\OMAL.geo
+F;OMAD\OMDB.geo
+F;OMDL\OMDL.geo
+F;OMDW\OMDW.geo
+F;OMSJ\OMSJ.geo
+F;OMRK\OMRK.geo
+F;OMAD\OMAD.geo
+F;OMFJ\OMFJ.geo
+F;OMDM\OMDM.geo
+F;OMRJ\OMRJ.geo
+F;OMDB\OMDB.geo
+
