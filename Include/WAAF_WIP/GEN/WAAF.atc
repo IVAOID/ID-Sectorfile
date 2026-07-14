@@ -67,18 +67,19 @@ WADD_DEL;121.850;WAAF WA;;;;//Ngurah Del
 //WADE
 
 //WADL
-WADL_APP;118.55;WAAF WA;;;;//Lombok Approach
-WADL_TWR;118.55;WAAF WA;;;;//Lombok Tower
+WADL_TWR;118.55;WAAF WA;;;;//Lombok Approach-Tower
 
 //WADS
 
 //WADY
+WADY_TWR;118.35;WAAF WADD;;;;//Banyuwangi Tower
 
 //WAEA
 
 //WAEB
 
 //WAEE
+WAEE_TWR;122.40;WAAF WAEE;;;;//Babullah Approach-Tower
 
 //WAEG
 
@@ -107,6 +108,7 @@ WADL_TWR;118.55;WAAF WA;;;;//Lombok Tower
 //WAFE
 
 //WAFF
+WAFF_TWR;118.70;WAAF WAFF;;;;//Mutiara Sis Al Jufri Approach-Tower
 
 //WAFJ
 
@@ -141,8 +143,10 @@ WADL_TWR;118.55;WAAF WA;;;;//Lombok Tower
 //WAGF
 
 //WAGG
+WAGG_TWR;122.4;WAAF WAGG;;;;//Tjilik Riwut Approach-Tower
 
 //WAGI
+WAGI_TWR;122.2;WAAF WAGI;;;;//Iskandar Approach-Tower
 
 //WAGK
 
@@ -159,15 +163,21 @@ WADL_TWR;118.55;WAAF WA;;;;//Lombok Tower
 //WAGY
 
 //WAHH
+WAHH_APP;123.4;WIIF WAHH;;;;//Yogyakarta Radar
+WAHH_TWR;122.4;WIIF WAHH;;;;//Adi Tower
+WAHH_GND;118.5;WIIF WAHH;;;;//Adi Ground
 
 //WAHI
+WAHI_TWR;122.15;WIIF WAHH_APP;;;;//Yogyakarta Tower
 
 //WAHL
 
 //WAHQ
-WAHQ_TWR;122.700;WAAF WA;;;; //Marmo Tower
+WAHQ_TWR;122.700;WAAF WAHH_APP;;;; //Marmo Tower
 
 //WAHS
+WAHS_APP;120.3;WIIF WAAF WAHS;;;;//Semarang Approach
+WAHS_TWR;122.3;WIIF WAAF WAHS;;;;//Yani Tower
 
 //WAHU
 
@@ -208,6 +218,7 @@ WAJJ_TWR;118.100;WAAF WA;;;; //Sentani Tower
 //WAKJ
 
 //WAKK
+WAKK_TWR;122.2;WAAF WAKK;;;;//Mopah Approach-Tower
 
 //WAKL
 
@@ -238,10 +249,12 @@ WALL_APP;120.400;WAAF WA;;;; //Balikpapan Radar
 WALL_TWR;118;100;WAAF WA;;;; //Sepinggan Tower
 
 //WALN
+WALN_TWR;118.55;WAAF WALL_APP;;;;//Nusantara Tower
 
 //WALQ
 
 //WALS
+WALS_TWR;124.35;WAAF WALL_APP;;;;//Aji Pangeran Tumenggung Pranoto Tower
 
 //WALT
 
@@ -304,6 +317,8 @@ WAMM_TWR;118.100;WAAF WA;;;; //Ratulangi Tower
 //WAPO
 
 //WAPP
+WAPP_APP;121.000;WAPP WAAF;;;; //Ambon Approach;
+WAPP_TWR;122.200;WAPP WAAF;;;; //Pattimura Tower;
 
 //WAPR
 
@@ -334,6 +349,8 @@ WAMM_TWR;118.100;WAAF WA;;;; //Ratulangi Tower
 //WAQM
 
 //WAQQ
+WAQQ_APP;118.1;WAAF WAQQ;;;;//Tarakan Approach
+WAQQ_TWR;125.5;WAAF WAQQ;;;;//Juwata Tower
 
 //WAQT
 

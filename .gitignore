@@ -1,4 +1,3 @@
-United Arab Emirates.isc
 WAAF.isc
 WAAF_P.isc
 WAAF_WIP2.isc
@@ -9,13 +8,7 @@ Sing*.*
 
 update.ini
 
-Include/OMAE
-Include/VFR_WAAF
 Include/WAAF
-Include/WAAF_P
 Include/WIIF
-Include/WIIF_P
-Include/WAAF_WIP2
-Include/WIIF_WIP2
 Include/WS*
 Include/WM*
