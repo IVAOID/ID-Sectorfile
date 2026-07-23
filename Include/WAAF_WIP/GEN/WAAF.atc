@@ -243,10 +243,11 @@ WAKK_TWR;122.2;WAAF WAKK;;;;//Mopah Approach-Tower
 //WALE
 
 //WALK
+WALK_TWR;118.550;WAAF WALL_APP;;;; //Nusantara Tower
 
 //WALL
-WALL_APP;120.400;WAAF WA;;;; //Balikpapan Radar
-WALL_TWR;118;100;WAAF WA;;;; //Sepinggan Tower
+WALL_APP;120.400;WAAF WAL WAL;;;; //Balikpapan Radar
+WALL_TWR;118;100;WAAF WALL_APP;;;; //Sepinggan Tower
 
 //WALN
 WALN_TWR;118.55;WAAF WALL_APP;;;;//Nusantara Tower
