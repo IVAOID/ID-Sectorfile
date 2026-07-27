@@ -1,0 +1,9 @@
+//LOA Files : WARR
+//Next ATC;Origin Airport;Destination Airport;Waypoint;Altitude (xfl);
+
+//APP
+WADD_APP;WARR WARA WARD;WADD WADL;MOVMO OKANG;FL250;
+WAAF_B_CTR;WARR WARA WARD;;FL260;
+
+//TWR
+WARR_APP;WARR;;;FL240;

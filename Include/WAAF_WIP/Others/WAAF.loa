@@ -1,0 +1,8 @@
+//LOA Files : WAFF
+//Next ATC;Origin Airport;Destination Airport;Waypoint;Altitude (xfl);
+
+//APP
+WARR_APP;;WARR WARA WARD;;FL200;
+WADD_APP;;WADD WADL WADY;;FL200;
+WALL_APP;;WALL WALK;FL200;
+WAAA_APP;;WAAA;;FL200;
