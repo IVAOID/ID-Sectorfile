@@ -55,7 +55,7 @@ WABB_TWR;118.100;
 
 //WADB
 
-//WADD
+//WADD_T_APP;119.300;WAAF WA;;;;//Bali Radar (BALI TMA)
 //WADD_E_APP;119.900;WAAF WA;;;; //Bali Radar (TMA East) 
 //WADD_W_APP;119.300;WAAF WA;;;; //Bali Radar (TMA West)
 WADD_APP;119.700;WAAF WA;;;;//Bali Radar (BALI CTR)
