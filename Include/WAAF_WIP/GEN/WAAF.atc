@@ -1,22 +1,24 @@
 
 //Callsign;Freq;Transfer List;Profile;ATIS;CPDLC;LOA;
 
+//Callsign;Freq;Transfer List;1      ;2   ;3    ;4  ;
+
 //Composite Center
-WAAF_B_CTR;133.550;WAAF WIIF WA;;;\Others\WAAF.loa;  //Bali Sector
-WAAF_L_CTR;128.450;WAAF WIIF WA;;;\Others\WAAF.loa;  //Balikpapan Sector
-WAAF_M_CTR;134;250;WAAF WIIF WA;;;\Others\WAAF.loa;  //Makasar Sector
-WAAF_J_CTR;134.650;WAAF WIIF WA;;;\Others\WAAF.loa;  //Jayapura Sector
+WAAF_B_CTR;133.550;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Bali Sector
+WAAF_L_CTR;128.450;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Balikpapan Sector
+WAAF_M_CTR;134;250;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Makasar Sector
+WAAF_J_CTR;134.650;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Jayapura Sector
 
 //Upper Controller
-WAAF_BLI_CTR;120.700;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_BPN_CTR;132.500;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_MKS_CTR;133.800;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_MNO_CTR;128.100;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_PKN_CTR;134.100;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_NSA_CTR;128.300;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung COntrol
-WAAF_SBY_CTR;123.900;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
-WAAF_AMN_CTR;132.350;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung COntrol
-WAAF_PUA_CTR;133.100;WAAF WIIF WA;;;\Others\WAAF.loa; //Ujung Control
+WAAF_BLI_CTR;120.700;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_BPN_CTR;132.500;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_MKS_CTR;133.800;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_MNO_CTR;128.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_PKN_CTR;134.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_NSA_CTR;128.300;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung COntrol
+WAAF_SBY_CTR;123.900;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_AMN_CTR;132.350;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung COntrol
+WAAF_PUA_CTR;133.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
 
 
 
@@ -381,7 +383,7 @@ WARR_APP;123.200;+WARR +WADD +WAHS +WAAF;;;\Others\WARR.loa; //Surabaya Approach
 //WARR_D_APP;124.500;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Director;
 WARR_TWR;118.300;+WARR +WAAF;;;; //Juanda Tower;
 //WARR_TWR;118.100;+WARR +WAAF;;;; //Juanda Tower;
-WARR_GND;118.900;+WARR +WAAF;;;; //Juanda Ground;
+WARR_GND;118.900;+WARR +WAAF;\Prefs\WARR_GND.cpr;;; //Juanda Ground;
 //WARR_GND;119.150;+WARR +WAAF;;;; //Juanda Ground;
 WARR_DEL;121.650;+WARR +WAAF;;;; //Juanda Delivery;
 
