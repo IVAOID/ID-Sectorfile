@@ -388,7 +388,7 @@ WARR_GND;118.900;+WARR +WAAF;\Prefs\WARR_GND.cpr;;; //Juanda Ground;
 WARR_DEL;121.650;+WARR +WAAF;;;; //Juanda Delivery;
 
 //WART
-WART_TWR;118.650;WAAF WA;;;; //Trunojoyo Tower
+WART_TWR;118.650;+WAAF +WA +WARR_APP;;;; //Trunojoyo Tower
 
 //WARW
 
@@ -415,7 +415,7 @@ WART_TWR;118.650;WAAF WA;;;; //Trunojoyo Tower
 //WATB
 
 //WATC
-
+WATC_TWR;122.300;+WAAF +WA;;;; //Fransiskus Xaverius Seda Tower
 //WATE
 
 //WATG
@@ -427,7 +427,7 @@ WART_TWR;118.650;WAAF WA;;;; //Trunojoyo Tower
 //WATM
 
 //WATO
-WATO_TWR;122.700;WAAF WA;;;;
+WATO_TWR;122.700;+WAAF +WA;;;; //Mutiara Tower
 
 //WATP
 
