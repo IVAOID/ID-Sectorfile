@@ -34,4 +34,16 @@ VFR Fix
 VFR Route
 Aerodrome Specific VFR Point
 
-## 
+## September 1, 2026
+
+#### Adds :
+WATC Procedures
+WAEH Ground Layout
+WAOC ATZ
+Online ATC TFL&Outline
+
+#### Deletes :
+
+#### Changes/Updates :
+WADD TMA Restructurization
+WARR TMA Restructurization
