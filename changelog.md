@@ -40,6 +40,7 @@ Aerodrome Specific VFR Point
 WATC Procedures
 WAEH Ground Layout
 WAOC ATZ
+Autogate Assignment
 Online ATC TFL&Outline
 
 #### Deletes :
