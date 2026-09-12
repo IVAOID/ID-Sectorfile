@@ -6,7 +6,7 @@
 //Composite Center
 WAAF_B_CTR;133.550;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Bali Sector
 WAAF_L_CTR;128.450;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Balikpapan Sector
-WAAF_M_CTR;134;250;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Makasar Sector
+WAAF_M_CTR;134.250;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Makasar Sector
 WAAF_J_CTR;134.650;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Jayapura Sector
 
 //Upper Controller
@@ -59,7 +59,7 @@ WABB_TWR;118.100;
 
 //WADD_E_APP;119.900;WAAF WA;;;; //Bali Radar (TMA East) 
 //WADD_W_APP;119.300;WAAF WA;;;; //Bali Radar (TMA West)
-WADD_TMA_APP;119.300;+WAAF +WARR_TMA +WADD;\Prefs\WADD_TMA_APP.cpr;;; //BALI Radar (TMA)
+WADD_TMA_APP;119.300;+WAAF +WARR_TMA +WADD;\Prefs\WADD_TMA_APP.cpr;;\Others\WADD.loa; //BALI Radar (TMA)
 WADD_APP;119.700;WAAF WA;\Prefs\WADD_APP.cpr;;;//Bali Radar (BALI CTR)
 WADD_TWR;118.100;WAAF WA;;;;//Ngurah Tower
 //WADD_TWR;118.500;WAAF WA;;;;//Ngurah Tower
@@ -416,7 +416,7 @@ WART_TWR;118.650;+WAAF +WA +WARR_APP;;;; //Trunojoyo Tower
 //WATB
 
 //WATC
-WATC_TWR;122.300;+WAAF +WA;;;; //Fransiskus Xaverius Seda Tower
+WATC_TWR;122.300;WAAF WA;;;; //Fransiskus Xaverius Seda Tower
 //WATE
 
 //WATG
@@ -428,7 +428,7 @@ WATC_TWR;122.300;+WAAF +WA;;;; //Fransiskus Xaverius Seda Tower
 //WATM
 
 //WATO
-WATO_TWR;122.700;+WAAF +WA;;;; //Mutiara Tower
+WATO_TWR;122.700;WAAF WA;;;; //Mutiara Tower
 
 //WATP
 

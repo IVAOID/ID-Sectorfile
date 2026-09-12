@@ -17,8 +17,7 @@ For any procedural discrepancies, please refer to IVAO Indonesia Divisional proc
 
 ## Installation
 
-1. Download the complete zip version from the Main Branch, _or_, \
-  Download directly via Aurora.
+1. Download the complete zip version from the Main Branch, _or_, download directly via Aurora.
 2. Extract directly (or copy) and _**OVERWRITE**_ to the SectorFiles folder within your Aurora Installation folder
     1. **Linux:**\
     `~/.local/share/IVAO/Aurora/SectorFiles`

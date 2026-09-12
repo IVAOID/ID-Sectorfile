@@ -1,4 +1,4 @@
-//Set Update : June 2026
+//Set Update : September 2026
 
 
 [INFO]
@@ -7,7 +7,7 @@ E106.39.40.000
 60
 60
 -0,1
-WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\GEN;WIIF_WIP\Sectors;
+WIIF_WIP;WIIF_WIP\Airports;WIIF_WIP\GEN;WIIF_WIP\Sectors;WIIF_WIP\Others;WIIF_WIP\Prefs;
 Sector File maintained by ID Sectorfile Updater Working Group
 
 [DEFINE]
