@@ -31,7 +31,7 @@ For any procedural discrepancies, please refer to IVAO Indonesia Divisional proc
 
 Refer to Aurora Manual to use the program.
 
-For any inquiry or update request, please send an email to id-aoc@ivao.aero or id-hq@ivao.aero, and attach valid AIP document related to the update.
+For any inquiry or update request, please send an email to id-aoc@ivao.aero or id-atcops@ivao.aero, and attach valid AIP document related to the update.
 
 No update will be made without valid AIP Data.
 
