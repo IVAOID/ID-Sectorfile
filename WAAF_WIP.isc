@@ -58,7 +58,7 @@ F;GEN\WAAF.rw
 [TAXIWAY]
 
 [GATES]
-F;GATES.gts
+//F;GATES.gts
 
 [FIXES]
 F;GEN\WAAF.fix
