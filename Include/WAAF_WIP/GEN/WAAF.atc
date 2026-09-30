@@ -59,22 +59,22 @@ WABB_TWR;118.100;
 
 //WADD_E_APP;119.900;WAAF WA;;;; //Bali Radar (TMA East) 
 //WADD_W_APP;119.300;WAAF WA;;;; //Bali Radar (TMA West)
-WADD_TMA_APP;119.300;+WAAF +WARR_TMA +WADD;\Prefs\WADD_TMA_APP.cpr;;\Others\WADD.loa; //BALI Radar (TMA)
-WADD_APP;119.700;WAAF WA;\Prefs\WADD_APP.cpr;;;//Bali Radar (BALI CTR)
-WADD_TWR;118.100;WAAF WA;;;;//Ngurah Tower
+WADD_TMA_APP;119.300;WAAF WARR_TMA WADD;\Prefs\WADD_TMA_APP.cpr;;\Others\WADD.loa; //BALI Radar (TMA)
+WADD_APP;119.700;WAAF WADD WAD;\Prefs\WADD_APP.cpr;;;//Bali Radar (BALI CTR)
+WADD_TWR;118.100;WAAF WADD;;;;//Ngurah Tower
 //WADD_TWR;118.500;WAAF WA;;;;//Ngurah Tower
-WADD_GND;118.800;WAAF WA;;;;//Ngurah Ground
-WADD_DEL;121.850;WAAF WA;;;;//Ngurah Del
+WADD_GND;118.800;WAAF WADD;;;;//Ngurah Ground
+WADD_DEL;121.850;WAAF WADD;;;;//Ngurah Del
 
 //WADE
 
 //WADL
-WADL_TWR;118.55;WAAF WA;;;;//Lombok Approach-Tower
+WADL_TWR;118.55;WAAF WADD_APP;;;;//Lombok Approach-Tower
 
 //WADS
 
 //WADY
-WADY_TWR;118.35;WAAF WADD;;;;//Banyuwangi Tower
+WADY_TWR;118.35;WAAF WADD_APP;;;;//Banyuwangi Tower
 
 //WAEA
 
@@ -272,8 +272,8 @@ WALS_TWR;124.35;WAAF WALL_APP;;;;//Aji Pangeran Tumenggung Pranoto Tower
 //WAMH
 
 //WAMM
-WAMM_APP;119.000;WAAF WA;;;; //Manado Approach
-WAMM_TWR;118.100;WAAF WA;;;; //Ratulangi Tower
+WAMM_APP;119.000;WAAF WAMM;;;; //Manado Approach
+WAMM_TWR;118.100;WAAF WAMM;;;; //Ratulangi Tower
 
 //WAMN
 
@@ -360,12 +360,12 @@ WAQQ_TWR;125.5;WAAF WAQQ;;;;//Juwata Tower
 //WAQU
 
 //WARA
-WARA_TWR;122.500; //Abdulrahman Tower
+WARA_TWR;122.500;WAAF WARR_APP;;;; //Abdulrahman Tower
 
 //WARC
 
 //WARD
-WARD_TWR;118.050;WARR WAAF //Dhoho Tower
+WARD_TWR;118.050;WAAF WARR_APP //Dhoho Tower
 
 //WARE
 
@@ -374,22 +374,22 @@ WARD_TWR;118.050;WARR WAAF //Dhoho Tower
 //WARP
 
 //WARR
-//WARR_E_APP;122.850;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Approach TMA EAST;
-//WARR_E_APP;124.000;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Approach TMA EAST;
-//WARR_W_APP;125.100;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Approach TMA WEST;
-//WARR_W_APP;123.550;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Approach TMA WEST;
-WARR_TMA_APP;125.100;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Approach TMA WEST;
-WARR_APP;123.200;+WARR +WADD +WAHS +WAAF;\Prefs\WARR_APP.cpr;;\Others\WARR.loa; //Surabaya Radar (CTR);
-//WARR_D_APP;123.200;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Director;
-//WARR_D_APP;124.500;+WARR +WADD +WAHS +WAAF;;;; //Surabaya Director;
-WARR_TWR;118.300;+WARR +WAAF;\Prefs\WARR_TWR.cpr;;; //Juanda Tower;
-//WARR_TWR;118.100;+WARR +WAAF;;;; //Juanda Tower;
-WARR_GND;118.900;+WARR +WAAF;\Prefs\WARR_GND.cpr;;; //Juanda Ground;
-//WARR_GND;119.150;+WARR +WAAF;;;; //Juanda Ground;
-WARR_DEL;121.650;+WARR +WAAF;;;; //Juanda Delivery;
+//WARR_E_APP;122.850;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA EAST;
+//WARR_E_APP;124.000;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA EAST;
+//WARR_W_APP;125.100;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA WEST;
+//WARR_W_APP;123.550;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA WEST;
+WARR_TMA_APP;125.100;WARR WADD_TMA WAHS_APP WAAF;;;; //Surabaya Approach TMA WEST;
+WARR_APP;123.200;WARR WAAF;\Prefs\WARR_APP.cpr;;\Others\WARR.loa; //Surabaya Radar (CTR);
+//WARR_D_APP;123.200;WARR WADD WAHS WAAF;;;; //Surabaya Director;
+//WARR_D_APP;124.500;WARR WADD WAHS WAAF;;;; //Surabaya Director;
+WARR_TWR;118.300;WARR WAAF;\Prefs\WARR_TWR.cpr;;; //Juanda Tower;
+//WARR_TWR;118.100;WARR WAAF;;;; //Juanda Tower;
+WARR_GND;118.900;WARR WAAF;\Prefs\WARR_GND.cpr;;; //Juanda Ground;
+//WARR_GND;119.150;WARR WAAF;;;; //Juanda Ground;
+WARR_DEL;121.650;WARR WAAF;;;; //Juanda Delivery;
 
 //WART
-WART_TWR;118.650;+WAAF +WA +WARR_APP;;;; //Trunojoyo Tower
+WART_TWR;118.650;WAAF WARR_APP;;;; //Trunojoyo Tower
 
 //WARW
 
