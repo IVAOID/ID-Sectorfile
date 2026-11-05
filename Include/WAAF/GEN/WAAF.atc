@@ -1,0 +1,550 @@
+
+//Callsign;Freq;Transfer List;Profile;ATIS;CPDLC;LOA;
+
+//Callsign;Freq;Transfer List;1      ;2   ;3    ;4  ;
+
+//Composite Center
+WAAF_B_CTR;133.550;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Bali Sector
+WAAF_L_CTR;128.450;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Balikpapan Sector
+WAAF_M_CTR;134.250;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Makasar Sector
+WAAF_J_CTR;134.650;WAAF WIIF WA;;;;\Others\WAAF.loa;  //Jayapura Sector
+
+//Upper Controller
+WAAF_BLI_CTR;120.700;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_BPN_CTR;132.500;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_MKS_CTR;133.800;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_MNO_CTR;128.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_PKN_CTR;134.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_NSA_CTR;128.300;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung COntrol
+WAAF_SBY_CTR;123.900;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+WAAF_AMN_CTR;132.350;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung COntrol
+WAAF_PUA_CTR;133.100;WAAF WIIF WA;;;;\Others\WAAF.loa; //Ujung Control
+
+
+
+//AERODROMES
+
+//WAAA
+WAAA_APP;127.500;WAAF WA;;;; //Ujung Pandang Approach (TMA)
+WAAA_APP;120.600;WAAF WA;;;; //Makassar Director (CTR)
+WAAA_APP;119.400;WAAF WA;;;; //Makassar Director (CTR)
+
+WAAA_TWR;118.100;WAAF WA;;;; //Hasanuddin Tower 
+WAAA_TWR;118.600;WAAF WA;;;; //Hasanuddin Tower
+WAAA_GND;121.600;WAAF WA;;;; //Hasanuddin Ground
+
+//WABA
+
+//WABB
+WABB_APP;121.200;
+WABB_TWR;118.100;
+
+//WABC
+
+//WABD
+
+//WABF
+
+//WABG
+
+//WABI
+
+//WABO
+
+//WABS
+
+//WADA
+
+//WADB
+
+//WADD_E_APP;119.900;WAAF WA;;;; //Bali Radar (TMA East) 
+//WADD_W_APP;119.300;WAAF WA;;;; //Bali Radar (TMA West)
+WADD_TMA_APP;119.300;WAAF WARR_TMA WADD;\Prefs\WADD_TMA_APP.cpr;;\Others\WADD.loa; //BALI Radar (TMA)
+WADD_APP;119.700;WAAF WADD WAD;\Prefs\WADD_APP.cpr;;;//Bali Radar (BALI CTR)
+WADD_TWR;118.100;WAAF WADD;;;;//Ngurah Tower
+//WADD_TWR;118.500;WAAF WA;;;;//Ngurah Tower
+WADD_GND;118.800;WAAF WADD;;;;//Ngurah Ground
+WADD_DEL;121.850;WAAF WADD;;;;//Ngurah Del
+
+//WADE
+
+//WADL
+WADL_TWR;118.55;WAAF WADD_APP;;;;//Lombok Approach-Tower
+
+//WADS
+
+//WADY
+WADY_TWR;118.35;WAAF WADD_APP;;;;//Banyuwangi Tower
+
+//WAEA
+
+//WAEB
+
+//WAEE
+WAEE_TWR;122.40;WAAF WAEE;;;;//Babullah Approach-Tower
+
+//WAEG
+
+//WAEH
+
+//WAEJ
+
+//WAEK
+
+//WAEL
+
+//WAEM
+
+//WAEO
+
+//WAES
+
+//WAEW
+
+//WAFB
+
+//WAFC
+
+//WAFD
+
+//WAFE
+
+//WAFF
+WAFF_TWR;118.70;WAAF WAFF;;;;//Mutiara Sis Al Jufri Approach-Tower
+
+//WAFJ
+
+//WAFK
+
+//WAFL
+
+//WAFM
+
+//WAFN
+
+//WAFO
+
+//WAFP
+
+//WAFS
+
+//WAFT
+
+//WAFU
+
+//WAFW
+
+//WAFY
+
+//WAGA
+
+//WAGB
+
+//WAGD
+
+//WAGF
+
+//WAGG
+WAGG_TWR;122.4;WAAF WAGG;;;;//Tjilik Riwut Approach-Tower
+
+//WAGI
+WAGI_TWR;122.2;WAAF WAGI;;;;//Iskandar Approach-Tower
+
+//WAGK
+
+//WAGL
+
+//WAGM
+
+//WAGP
+
+//WAGS
+
+//WAGT
+
+//WAGY
+
+//WAHH
+WAHH_APP;123.4;WIIF WAHH;;;;//Yogyakarta Radar
+WAHH_TWR;122.4;WIIF WAHH;;;;//Adi Tower
+WAHH_GND;118.5;WIIF WAHH;;;;//Adi Ground
+
+//WAHI
+WAHI_TWR;122.15;WIIF WAHH_APP;;;;//Yogyakarta Tower
+
+//WAHL
+
+//WAHQ
+WAHQ_TWR;122.700;WAAF WAHH_APP;;;; //Marmo Tower
+
+//WAHS
+WAHS_APP;120.3;WIIF WAAF WAHS;;;;//Semarang Approach
+WAHS_TWR;122.3;WIIF WAAF WAHS;;;;//Yani Tower
+
+//WAHU
+
+//WAJA
+
+//WAJC
+
+//WAJE
+
+//WAJF
+
+//WAJG
+
+//WAJI
+
+//WAJJ
+WAJJ_APP;119.100;WAAF WA;;;; //Jayapura Radar
+WAJJ_TWR;118.100;WAAF WA;;;; //Sentani Tower
+
+//WAJK
+
+//WAJL
+
+//WAJM
+
+//WAJO
+
+//WAJS
+
+//WAJU
+
+//WAKD
+
+//WAKE
+
+//WAKG
+
+//WAKJ
+
+//WAKK
+WAKK_TWR;122.2;WAAF WAKK;;;;//Mopah Approach-Tower
+
+//WAKL
+
+//WAKM
+
+//WAKO
+
+//WAKP
+
+//WAKQ
+
+//WAKT
+
+//WALA
+
+//WALB
+
+//WALC
+
+//WALD
+
+//WALE
+
+//WALK
+WALK_TWR;118.550;WAAF WALL_APP;;;; //Nusantara Tower
+
+//WALL
+WALL_APP;120.400;WAAF WAL WAL;;;; //Balikpapan Radar
+WALL_TWR;118;100;WAAF WALL_APP;;;; //Sepinggan Tower
+
+//WALN
+WALN_TWR;118.55;WAAF WALL_APP;;;;//Nusantara Tower
+
+//WALQ
+
+//WALS
+WALS_TWR;124.35;WAAF WALL_APP;;;;//Aji Pangeran Tumenggung Pranoto Tower
+
+//WALT
+
+//WALU
+
+//WALW
+
+//WAMB
+
+//WAMG
+
+//WAMH
+
+//WAMM
+WAMM_APP;119.000;WAAF WAMM;;;; //Manado Approach
+WAMM_TWR;118.100;WAAF WAMM;;;; //Ratulangi Tower
+
+//WAMN
+
+//WAMO
+
+//WAMP
+
+//WAMU
+
+//WAOC
+
+//WAOG
+
+//WAOH
+
+//WAOK
+
+//WAON
+
+//WAOO
+
+//WAPA
+
+//WAPB
+
+//WAPC
+
+//WAPD
+
+//WAPF
+
+//WAPG
+
+//WAPI
+
+//WAPK
+
+//WAPL
+
+//WAPM
+
+//WAPN
+
+//WAPO
+
+//WAPP
+WAPP_APP;121.000;WAPP WAAF;;;; //Ambon Approach;
+WAPP_TWR;122.200;WAPP WAAF;;;; //Pattimura Tower;
+
+//WAPR
+
+//WAPS
+
+//WAPT
+
+//WAPU
+
+//WAPV
+
+//WAQA
+
+//WAQB
+
+//WAQC
+
+//WAQD
+
+//WAQG
+
+//WAQJ
+
+//WAQK
+
+//WAQL
+
+//WAQM
+
+//WAQQ
+WAQQ_APP;118.1;WAAF WAQQ;;;;//Tarakan Approach
+WAQQ_TWR;125.5;WAAF WAQQ;;;;//Juwata Tower
+
+//WAQT
+
+//WAQU
+
+//WARA
+WARA_TWR;122.500;WAAF WARR_APP;;;; //Abdulrahman Tower
+
+//WARC
+
+//WARD
+WARD_TWR;118.050;WAAF WARR_APP //Dhoho Tower
+
+//WARE
+
+//WARI
+
+//WARP
+
+//WARR
+//WARR_E_APP;122.850;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA EAST;
+//WARR_E_APP;124.000;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA EAST;
+//WARR_W_APP;125.100;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA WEST;
+//WARR_W_APP;123.550;WARR WADD WAHS WAAF;;;; //Surabaya Approach TMA WEST;
+WARR_TMA_APP;125.100;WARR WADD_TMA WAHS_APP WAAF;;;; //Surabaya Approach TMA WEST;
+WARR_APP;123.200;WARR WAAF;\Prefs\WARR_APP.cpr;;\Others\WARR.loa; //Surabaya Radar (CTR);
+//WARR_D_APP;123.200;WARR WADD WAHS WAAF;;;; //Surabaya Director;
+//WARR_D_APP;124.500;WARR WADD WAHS WAAF;;;; //Surabaya Director;
+WARR_TWR;118.300;WARR WAAF;\Prefs\WARR_TWR.cpr;;; //Juanda Tower;
+//WARR_TWR;118.100;WARR WAAF;;;; //Juanda Tower;
+WARR_GND;118.900;WARR WAAF;\Prefs\WARR_GND.cpr;;; //Juanda Ground;
+//WARR_GND;119.150;WARR WAAF;;;; //Juanda Ground;
+WARR_DEL;121.650;WARR WAAF;;;; //Juanda Delivery;
+
+//WART
+WART_TWR;118.650;WAAF WARR_APP;;;; //Trunojoyo Tower
+
+//WARW
+
+//WASA
+
+//WASF
+
+//WASI
+
+//WASK
+
+//WASN
+
+//WASO
+
+//WASS
+
+//WAST
+
+//WASU
+
+//WATA
+
+//WATB
+
+//WATC
+WATC_TWR;122.300;WAAF WA;;;; //Fransiskus Xaverius Seda Tower
+//WATE
+
+//WATG
+
+//WATK
+
+//WATL
+
+//WATM
+
+//WATO
+WATO_TWR;122.700;WAAF WA;;;; //Mutiara Tower
+
+//WATP
+
+//WATQ
+
+//WATR
+
+//WATS
+
+//WATT
+WATT_APP;125.250;WAAF WA;;;; //Kupang Approach
+WATT_TWR;118.300;WAAF WA;;;; //El Tari Tower
+
+//WATU
+
+//WATW
+
+//WAUA
+
+//WAUB
+
+//WAUE
+
+//WAUK
+
+//WAUM
+
+//WAUR
+
+//WAUU
+
+//WAUW
+
+//WAVA
+
+//WAVB
+
+//WAVC
+
+//WAVD
+
+//WAVE
+
+//WAVG
+
+//WAVL
+
+//WAVM
+
+//WAVT
+
+//WAVV
+
+//WAVZ
+
+//WAWA
+
+//WAWB
+
+//WAWC
+
+//WAWD
+
+//WAWH
+
+//WAWI
+
+//WAWN
+
+//WAWP
+
+//WAWR
+
+//WAWS
+
+//WAWW
+
+//WAYA
+
+//WAYB
+
+//WAYE
+
+//WAYG
+
+//WAYI
+
+//WAYJ
+
+//WAYK
+
+//WAYL
+
+//WAYM
+
+//WAYN
+
+//WAYO
+
+//WAYW
+
+//WAYY
+
+//WIOL
+
+//WPDB
+
+//WPDL
+
+//WPEC
+
+//WPOC
+
+//WPVQ
+
+//WRLJ
+
+//WRLO
+

@@ -1,0 +1,108 @@
+[FILES]
+
+
+[Connection]
+Callsign=WIIF_PLB_CTR
+Remember=1
+CPDLCCallSign=WI04
+HideAdm=0
+Voice=1
+FREQ1=132.700
+FREQ2=
+FREQ3=
+FREQ4=
+FREQ5=
+FREQ6=
+FREQ7=
+FREQ8=
+FREQ9=
+NumFreq=1
+Elevation=0
+
+[ATIS]
+ATCPosition=Jakarta Radar
+METAR=WIPP
+Takeoff=
+Landing=
+Remarks=Available FL245-FL600
+TransLevel=130
+TransAlt=11000
+TMA=0
+IncTransLevel=1
+IncTransAlt=1
+ATISShowQFE=0
+AtisFreq=
+AtisVoice=0
+AtisPower=15
+AtisSpeed=0
+DepFreq=
+ATIS_FIELDS=
+
+[PREFS]
+
+
+[LABELS]
+
+
+[STCA]
+
+
+[MTCA]
+
+
+[GC]
+
+[DRAW32BITS]
+
+[ScreenLabels]
+
+[Screens]
+
+
+[COMBOX_ALLERT_FILTER]
+
+
+[COPY COORDINATES]
+
+
+[REPLAY RECORDER]
+
+
+[LOCK RADAR]
+
+[TRAFFICLISTS]
+
+
+[Sounds]
+
+
+[CENTERPOINT]
+
+
+[TRAFFICSCREENS]
+
+
+[CPDLC screen]
+
+
+[Procedure screen]
+
+
+[BAY screen]
+
+[NAVAIDS FILTER]
+
+
+[AREAS FILTER]
+
+
+[GEO FILTER]
+
+
+[STATIC LABELS]
+
+[3RD PARTY]
+
+
+[GENERAL]
+
